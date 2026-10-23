@@ -1,0 +1,75 @@
+[
+  {
+    "uploadedAt": "2026-10-15T21:24:34.499Z",
+    "deviceId": "ebarnes",
+    "fileName": "hardwareInventoryPartsReport (20).csv",
+    "dataLoaded": "Component (2026-10-09)",
+    "size": 505374,
+    "rowCount": 6160,
+    "csvMode": "numbers",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "uploadedAt": "2026-10-15T20:51:22.953Z",
+    "deviceId": "PC-WIN-FA8810",
+    "fileName": "hardwareInventoryPartsReport (21).csv",
+    "size": 547620,
+    "rowCount": 6568,
+    "csvMode": "numbers",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "uploadedAt": "2026-10-15T20:10:29.846Z",
+    "deviceId": "PC-WIN-FA8810",
+    "fileName": "hardwareInventoryPartsReport (20).csv",
+    "size": 505374,
+    "rowCount": 6160,
+    "csvMode": "numbers",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "uploadedAt": "2026-10-15T20:10:07.019Z",
+    "deviceId": "PC-WIN-FA8810",
+    "fileName": "hardwareInventoryPartsReport (21).csv",
+    "size": 547620,
+    "rowCount": 6568,
+    "csvMode": "numbers",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "uploadedAt": "2026-10-15T19:08:00.608Z",
+    "deviceId": "PC-WIN-46E21C",
+    "fileName": "hardwareInventoryPartsReport (21).csv",
+    "size": 547620,
+    "rowCount": 6568,
+    "csvMode": "numbers",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "uploadedAt": "2026-10-15T18:48:14.353Z",
+    "deviceId": "PC-WIN-46E21C",
+    "fileName": "hardwareInventoryPartsReport (21).csv",
+    "size": 547620,
+    "rowCount": 6568,
+    "csvMode": "numbers",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "uploadedAt": "2026-10-15T18:42:54.890Z",
+    "deviceId": "PC-WIN-46E21C",
+    "fileName": "hardwareInventoryPartsReport (21).csv",
+    "size": 547620,
+    "rowCount": 6568,
+    "csvMode": "numbers",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "uploadedAt": "2026-10-15T17:49:45.313Z",
+    "deviceId": "PC-WIN-9DB5C2",
+    "fileName": "hardwareInventoryPartsReport (21).csv",
+    "size": 547620,
+    "rowCount": 6568,
+    "csvMode": "numbers",
+    "timezone": "Asia/Tokyo"
+  }
+]
